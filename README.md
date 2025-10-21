@@ -267,9 +267,6 @@ docker-compose up -d
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Authors
-
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
 
 ## 🙏 Acknowledgments
 
@@ -278,11 +275,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Google Maps API for location services
 - PostgreSQL community for the robust database system
 
-## 📞 Support
-
-If you have any questions or need help, please:
-- Open an issue on GitHub
-- Contact us at support@civicissues.com
 
 ## 🔮 Future Enhancements
 
@@ -293,8 +285,3 @@ If you have any questions or need help, please:
 - [ ] Integration with government systems
 - [ ] AI-powered issue categorization
 - [ ] Social media integration
-- [ ] Advanced reporting features
-
----
-
-**Made with ❤️ for better communities**
